@@ -1,8 +1,9 @@
 # Hi, I'm Siddhesh! 👋
 
 ## 🚀 About Me
-- 🧑‍💻 **Engineering Student** focusing on **Full Stack Development** and **AI**.
-- 🌱 Currently exploring **Java**, **React**, and **Web Development**.
+- 🧑‍💻 **Engineering Student** focusing on **Full Stack Development**.
+- 🌱 Currently exploring **React** and **Web Development**.
+- - 🧑🏻‍💻Well acquainted with **Java**, **C++**, and **Python**.
 
 ## 🔨 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
