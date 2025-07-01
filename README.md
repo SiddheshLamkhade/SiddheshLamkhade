@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🧑‍💻 **Engineering Student** focusing on **Full Stack Development**.
-- 🌱 Currently exploring **React** and **Web Development**.
+- 🌱 Currently exploring **DEVOPS**
 - 🧑🏻‍💻Well acquainted with **Java**, **C++**, and **Python**.
 
 ## 🔨 Tech Stack
