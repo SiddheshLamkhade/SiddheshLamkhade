@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🧑‍💻 **Engineering Student** focusing on **Full Stack Development**.
-- 🌱 Currently exploring **DEVOPS**
-- 🧑🏻‍💻Well acquainted with **Java**, **C++**, and **Python**.
+- 🌱 Currently exploring **DEV-OPS**
+- 🧑🏻‍💻Well acquainted with **Java**, **React**, **SpringBoot**, and **AWS**.
 
 ## 🔨 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
